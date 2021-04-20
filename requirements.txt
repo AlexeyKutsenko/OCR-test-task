@@ -12,7 +12,7 @@ pandas==0.24.2
 pathlib2==2.3.5
 Pillow==7.0.0
 pluggy==0.13.1
-py==1.8.1
+py==1.10.0
 pylint==2.4.4
 pyparsing==2.4.6
 pytesseract==0.3.2
